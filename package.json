@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manasmishra/jobQueue/issues"
   },
-  "homepage": "https://github.com/manasmishra/jobQueue#readme"
+  "homepage": "https://github.com/manasmishra/jobQueue#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
 }
