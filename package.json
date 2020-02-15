@@ -1,0 +1,19 @@
+{
+  "name": "createjobqueue",
+  "version": "1.0.0",
+  "description": "Create a job queue add jobs to queue and process them when called",
+  "main": "jobqueue.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasmishra/jobQueue.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/manasmishra/jobQueue/issues"
+  },
+  "homepage": "https://github.com/manasmishra/jobQueue#readme"
+}
